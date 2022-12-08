@@ -1,0 +1,10 @@
+say.ToEveryone("Selam.");
+
+if("Hesabımı ziyaret ediyorlarsa")
+{
+
+make.Çay;
+
+}
+
+MessageBox("Afiyet olsun.").Close;
